@@ -684,5 +684,19 @@
     ],
     "actividad": "Primera Claseeee",
     "url": "https://github.com/Juanp1x/sanagustin/blob/semestre3/app-debug.apk"
+  },
+  {
+    "nombreapp": "proyecto-recetas-expo",
+    "descripcion": "Es una app donde puedes ver recetas por medio de peticiones de una API",
+    "icono": "https://www.flaticon.es/icono-gratis/food-restaurant_8341902?term=food&page=1&position=7&origin=search&related_id=8341902",
+    "grupo": "Lunes",
+    "fecha": "2026-04-19",
+    "id": 1,
+    "integrantes": [
+      "Jesus Flores",
+      "Sergio Ramirez"
+    ],
+    "actividad": "React Native con Expo y GitHub (0.6 pts) 13 de Abril",
+    "url": "https://github.com/dvchinx/proyecto-recetas-expo"
   }
 ]
